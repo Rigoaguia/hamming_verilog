@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder
+vdecoder_hamming
+!s110 1561264120
+!i10b 1
+!s100 CRd5N34W^0a>bjMomV9EW1
+IoHVE`YAWEaUH]C79d7cj^3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 d/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder
+w1561263423
+8/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/decoder_hamming.v
+F/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/decoder_hamming.v
+L0 25
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1561264119.000000
+!s107 /home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/decoder_hamming.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/decoder_hamming.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtb_decoder
+!s110 1561264233
+!i10b 1
+!s100 5kGP1YSeSg[T5E3BYkUC@1
+IzGYA<gDY`F7KOVRWY>mnD0
+R0
+R1
+w1561264230
+8/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/tb_decoder.v
+F/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/tb_decoder.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1561264233.000000
+!s107 /home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/tb_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder/tb_decoder.v|
+!i113 1
+R3
+R4

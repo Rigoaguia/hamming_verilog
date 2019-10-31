@@ -1,0 +1,23 @@
+# Loading project encoder_hamming
+# reading /opt/intelFPGA_lite/18.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project decoder_hamming
+# Compile of decoder_hamming.v was successful.
+# Compile of tb_decoder.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of tb_decoder.v was successful.
+vsim work.tb_decoder
+# vsim work.tb_decoder 
+# Start time: 00:30:39 on Jun 23,2019
+# Loading work.tb_decoder
+# Loading work.decoder_hamming
+add wave -position insertpoint sim:/tb_decoder/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+run
+run
+run
+run
+run
+run
+# End time: 00:31:42 on Jun 23,2019, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 1

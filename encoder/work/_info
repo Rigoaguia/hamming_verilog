@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/ricardo/PROJECT_HUGO/i2c
+vencoder_hamming
+Z0 !s110 1561263858
+!i10b 1
+!s100 m`oe9=LoO0lU]Xc8hTNaa1
+IzUNcPOgPf[C[G[>ARA=7A0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder
+w1561263302
+8/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/encoder_hamming.v
+F/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/encoder_hamming.v
+L0 18
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1561263857.000000
+!s107 /home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/encoder_hamming.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/encoder_hamming.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtb_encoder
+R0
+!i10b 1
+!s100 j9LOmUMT:;[65U5CY=bUo0
+IP?0lHKB2`]DON8mKbZefP1
+R1
+R2
+w1561263725
+8/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v
+F/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1561263858.000000
+!s107 /home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v|
+!i113 1
+R4
+R5
